@@ -9,4 +9,4 @@
   <p>The world of technology 🌐 fascinates me, and I am passionate about building efficient, scalable, and user-friendly digital solutions. With strong expertise in modern front-end and back-end technologies, I focus on delivering high-quality software that makes an impact. I enjoy exploring new tech stacks 💻 and continuously improving my skills to solve complex problems creatively 🛠️.</p>
 </div>
 
-<br>
+<!-- <br> -->
