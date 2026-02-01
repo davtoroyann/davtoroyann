@@ -1,16 +1,13 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Davit Toroyan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<!--
-**davtoroyann/davtoroyann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Welcome+to+my+GitHub+profile!%F0%9F%91%8B;Senior+Software+Engineer;Full-Stack+Developer;React+%26+Node.js+Specialist;Tech+Enthusiast;" alt="Headline" />
+</div>
 
-Here are some ideas to get you started:
+<div align="center">
+  <h3>Senior Software Engineer | Full-Stack Developer | React & Node.js Specialist</h3>
+  <p>The world of technology 🌐 fascinates me, and I am passionate about building efficient, scalable, and user-friendly digital solutions. With strong expertise in modern front-end and back-end technologies, I focus on delivering high-quality software that makes an impact. I enjoy exploring new tech stacks 💻 and continuously improving my skills to solve complex problems creatively 🛠️.</p>
+  <p>🌐 Check out my website: <a href="https://www.melsvagharshyan.com" style="color:#00ffff;">www.melsvagharshyan.com</a></p>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
