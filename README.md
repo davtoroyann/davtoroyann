@@ -101,3 +101,11 @@ Highly adaptable and motivated, I can quickly learn and integrate any technology
 - Email: mailto:davittoroyan04@gmail.com  
 
 ---
+
+## 🔒 Projects & Collaboration
+
+A significant part of my work consists of private commercial projects, which are not publicly available due to confidentiality agreements.
+
+However, I am open to collaboration and can provide access to selected projects or share detailed insights into my work upon request.
+
+---
