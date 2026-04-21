@@ -92,20 +92,12 @@ Highly adaptable and motivated, I can quickly learn and integrate any technology
 
 ---
 
-## 🌱 Currently Learning
-
-- React.js
-- Modern frontend architecture
-- Contemporary development patterns
-- Deeper JavaScript internals
-
----
-
 ## 📫 Connect With Me
 
 <!-- Add your links here -->
-- GitHub: [your-github-link](#)
-- LinkedIn: [your-linkedin-link](#)
-- Email: [your-email](#)
+- GitHub: https://github.com/davtoroyann  
+- LinkedIn: https://www.linkedin.com/in/davtoroyann  
+- Telegram: https://t.me/davtoroyann  
+- Email: mailto:davittoroyan04@gmail.com  
 
 ---
