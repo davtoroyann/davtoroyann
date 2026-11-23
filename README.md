@@ -1,111 +1,20 @@
-<h1 align="center">
-  Hi, I'm Davit Toroyan
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="wave">
-</h1>
+<img src="assets/banner.png" alt="The true is what is made. A line drawing of Abovyan Street in Yerevan." width="100%">
 
-<h3 align="center">Front-end Engineer | Modern UI Development | Clean & Scalable Code</h3>
+# Davit Toroyan
 
----
+**AI Full-Stack Engineer** · Yerevan, Armenia
 
-## 👨‍💻 About Me
+I build and maintain web products for businesses, from storefronts and admin panels to back ends,
+and add AI and automation where they save people time.
 
-Front-end engineer focused on building modern, high-quality, and real-world web products.  
-I specialize in creating responsive, semantic, and cross-browser interfaces with strict adherence to **BEM methodology** and clean, maintainable code practices.
+- At [WaveIT](https://github.com/waveitnet), a digital agency, I've worked on 29 client websites and online stores
+  since 2024: Next.js apps, custom WordPress and WooCommerce themes, Laravel and OpenCart stores.
+- I work AI-first with Claude Code and Cursor and review every change myself before it ships.
+- Client code is private; I'm glad to walk through my part of it on a call.
 
-I actively deepen my understanding of **JavaScript internals** and **modern frontend architecture**, with a strong focus on **React.js** and contemporary development patterns. My approach goes beyond just writing code — I aim to understand how things work **under the hood** to build more efficient, scalable, and reliable interfaces.
+### Stack
+`Next.js` `React` `TypeScript` `Tailwind CSS` `PHP` `WordPress` `WooCommerce` `Laravel` `Node.js`
+`PostgreSQL` `MySQL` `LLM APIs` `RAG` `AI agents` `MCP` `Telegram bots` `n8n` `GitHub Actions` `Docker` `Vercel`
 
-Highly adaptable and motivated, I can quickly learn and integrate any technology required by a project or business needs, always aligning my skill set with current industry standards and modern development practices. I work effectively both independently and within teams, consistently delivering quality results under tight deadlines.
-
----
-
-## 🚀 Tech Stack
-
-### **Front-end Development**
-- HTML5 / PUG
-- CSS3
-- SASS / SCSS / LESS
-- JavaScript (ES6+)
-
-### **Styling & Architecture**
-- BEM methodology
-- Scalable and maintainable CSS architecture
-- Semantic markup
-- Responsive & adaptive layouts
-
-### **UI / Design Workflow**
-- Figma → Pixel-perfect implementation
-- Zeplin
-- Marsy
-
-### **Performance & Quality**
-- Performance optimization
-- SEO best practices
-- UX / UI improvements
-- Development aligned with:
-  - W3C
-  - WHATWG
-  - WCAG 2.1
-  - WAI-ARIA
-
-### **CMS & Frameworks**
-- WordPress
-- Laravel
-- OpenCart
-- Bitrix
-
-### **Tooling & Environment**
-- Git
-- GitHub
-- GitLab
-- Gulp
-- Vite
-- Webpack
-- Linux OS
-- Vercel
-- Netlify
-
----
-
-## 💡 Development Approach
-
-- Clean and maintainable code
-- Strong understanding of JavaScript fundamentals and internals
-- Focus on modern frontend standards
-- Scalable and reliable UI solutions
-- Attention to performance, accessibility, and usability
-
----
-
-## 🤝 Soft Skills
-
-- Fast adaptation
-- Strong communication
-- Quick learning and applying new technologies
-- Problem-solving & critical thinking
-- Ability to analyze complex frontend challenges
-- Collaboration & teamwork
-- Experience working with backend developers, designers, and stakeholders
-- Attention to detail
-- Time management
-- Meeting deadlines
-- Workflow optimization
-
----
-
-## 📫 Connect With Me
-
-<!-- Add your links here -->
-- GitHub: https://github.com/davtoroyann  
-- LinkedIn: https://www.linkedin.com/in/davtoroyann  
-- Telegram: https://t.me/davtoroyann  
-- Email: mailto:davittoroyan04@gmail.com  
-
----
-
-## 🔒 Projects & Collaboration
-
-A significant part of my work consists of private commercial projects, which are not publicly available due to confidentiality agreements.
-
-However, I am open to collaboration and can provide access to selected projects or share detailed insights into my work upon request.
-
----
+### Contact
+[LinkedIn](https://www.linkedin.com/in/davtoroyann) · [Telegram](https://t.me/davtoroyann) · [davittoroyan04@gmail.com](mailto:davittoroyan04@gmail.com)
