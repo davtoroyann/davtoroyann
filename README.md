@@ -5,7 +5,7 @@
 <img src="assets/stack.svg" loading="lazy" alt="Stack. Front end: Next.js, React, TypeScript, JavaScript, Tailwind CSS, HTML5, CSS, Sass. CMS and e-commerce: WordPress, WooCommerce, PHP, Laravel, OpenCart. Back end and data: Node.js, PostgreSQL, MySQL, Prisma. AI and automation: Claude API, MCP, n8n, Telegram bots, Python. DevOps and tools: Git, GitHub Actions, Docker, Vercel, Linux, Figma, Vite, Cursor." width="100%">
 
 <p>
-<a href="https://www.linkedin.com/in/davtoroyann"><img src="assets/linkedin.svg" loading="lazy" alt="LinkedIn" height="44"></a>
-<a href="https://t.me/davtoroyann"><img src="assets/telegram.svg" loading="lazy" alt="Telegram" height="44"></a>
-<a href="mailto:davittoroyan04@gmail.com"><img src="assets/email.svg" loading="lazy" alt="davittoroyan04@gmail.com" height="44"></a>
+<a href="https://www.linkedin.com/in/davtoroyann"><img src="assets/linkedin.svg" loading="lazy" alt="LinkedIn" height="66"></a>
+<a href="https://t.me/davtoroyann"><img src="assets/telegram.svg" loading="lazy" alt="Telegram" height="66"></a>
+<a href="mailto:davittoroyan04@gmail.com"><img src="assets/email.svg" loading="lazy" alt="Email: davittoroyan04@gmail.com" height="66"></a>
 </p>
